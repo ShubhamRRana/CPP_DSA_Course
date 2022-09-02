@@ -1,3 +1,17 @@
 Today is the first day of learning DSA
  
 Let's see what we have learned today,
+1. How to solve the problem and how to think
+	a. Understand the problem.
+	b. What are the given values.
+	c. Try to think of a approach to solve the problem(can it be solved in parts or can be done in one go).
+	d. Now create a program.
+
+2. What is flowchart?
+	It as a diagrammatic representation of an approach.
+
+3. You should know from where does your program starts.
+
+4. Pseudocode - Way of represting logic.
+
+5. Compiler converts source code to binary code, so it can be understood by the computer. The binary file created by compiler is called as "Executable file".
